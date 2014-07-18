@@ -1,4 +1,4 @@
-class Pagseguro {
+class Pagseguro_lib {
 
     private $ps_email = '';
     private $timeout = 30; // Timeout em segundo
